@@ -269,14 +269,6 @@ IEEE / Scopus-indexed publications covering:
 
 ---
 
-## 📜 License
-
-This repository and portfolio content are **personal, original work**. Unless otherwise stated,
-content, written materials, and original portfolio assets **may not be copied, republished, or
-redistributed without written permission**. See [`LICENSE`](LICENSE) for full terms.
-
----
-
 <div align="center">
 
 ### _"Build. Research. Engineer. Innovate."_
