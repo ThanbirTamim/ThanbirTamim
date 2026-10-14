@@ -275,6 +275,6 @@ IEEE / Scopus-indexed publications covering:
 
 **— Thanbir Alam**
 
-<sub>© 2025 Sheikh Thanbir Alam · All Rights Reserved</sub>
+<sub>© 2026 Sheikh Thanbir Alam · All Rights Reserved</sub>
 
 </div>
